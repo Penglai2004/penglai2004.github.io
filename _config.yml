@@ -15,11 +15,11 @@ defaults:
 
 # --- 网站信息设置 ---
 # 下面填写你的博客标题
-title: varenyzc的世界
+title: 帝乡
 # 下面填写你的网络常用名
-name: varenyzc
+name: 海外有蓬莱
 # 下面填写你的座右铭或者是个性签名
-description: 永远相信美好的事情即将发生.
+description: 且放白鹿青崖间，须行即骑访名山.
 # 你博客的 url 地址，比如：https://showzeng.github.io 或者是自定义的域名
 url: https://www.varen.top
 # 在页尾的版权时间信息，比如：2016-2018，默认是 2018 年
