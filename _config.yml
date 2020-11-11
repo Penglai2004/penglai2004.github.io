@@ -86,9 +86,9 @@ comment: true
 # 来必力 uid
 # livere_uid:
 # gitment 用户主，即 GitHub 用户名
-gitment_owner: varenyzc
+gitment_owner: 海外有蓬莱
 # GitHub pages 仓库名，如：showzeng.github.io
-gitment_repo: varenyzc.github.io
+gitment_repo: penglai2004.github.io
 # gitment 提供的对应 id 和 secret
 gitment_client_id: 76bb22ffd69cb9a2dc11
 gitment_secret: 1bc48766be80fbcb2802679ab796d76ac4fafe44
